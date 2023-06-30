@@ -1,0 +1,11 @@
+{
+    "python.formatting.provider": "black",
+    "python.testing.pytestArgs": [
+        "tests",
+        "-s"
+    ],
+    "python.analysis.extraPaths": ["./src"],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+
+}
